@@ -1,9 +1,9 @@
 {
 	"version": "3.0.0",
 	"priority": "high",
-	"changelog": {
+	"changelog": [
 		"ADDED TEST",
 		"REMOVED TEST",
 		"MODIFIED TEST"
-	}
+	]
 }
