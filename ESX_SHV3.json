@@ -1,9 +1,20 @@
-{
-	"version": "3.0.0",
-	"priority": "high",
-	"changelog": [
-		"ADDED TEST",
-		"REMOVED TEST",
-		"MODIFIED TEST"
-	]
-}
+[
+	{
+		"version": "3.0.0",
+		"priority": "high",
+		"changelog": [
+			"ADDED TEST",
+			"REMOVED TEST",
+			"MODIFIED TEST"
+		]
+	},
+	{
+		"version": "2.0.0",
+		"priority": "medium",
+		"changelog": [
+			"V2 ADDED TEST",
+			"V2 REMOVED TEST",
+			"V2 MODIFIED TEST"
+		]
+	}
+]
