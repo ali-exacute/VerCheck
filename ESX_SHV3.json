@@ -1,7 +1,7 @@
 [
 	{
 		"version": "3.0.0",
-		"priority": "high",
+		"priority": "^1high",
 		"changelog": [
 			"ADDED TEST",
 			"REMOVED TEST",
@@ -10,7 +10,7 @@
 	},
 	{
 		"version": "2.0.0",
-		"priority": "medium",
+		"priority": "^3medium",
 		"changelog": [
 			"V2 ADDED TEST",
 			"V2 REMOVED TEST",
