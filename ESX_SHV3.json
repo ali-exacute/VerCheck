@@ -3,9 +3,20 @@
 		"version": "3.0.0",
 		"priority": "^1high",
 		"changelog": [
-			"ADDED TEST",
-			"REMOVED TEST",
-			"MODIFIED TEST"
+			"Big performance optimization compared to V2 (~40% across the board)",
+			"Now SHV can handle infinite amount of shops with no performance cost !",
+			"New _simple.lua files for easily adapting with your server without any need to modify the main files",
+			"Added ox_lib as dependecy",
+			"Automatic database check & installer instead of old fixSQL command",
+			"Switched from old menus to ox_lib menu",
+			"Moved vehicleinfo to their own file",
+			"Fixed script timeout on huge amount of vehicles",
+			"Better information on new updates",
+			"Fixed notification icon sometimes not showing correctly",
+			"Fixed vehicle name overflow for 2D Text information",
+			"Better vehicle spawn handler",
+			"Fixed some security problem on event handlers",
+			"Removed unused config",
 		]
 	},
 	{
