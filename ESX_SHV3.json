@@ -6,6 +6,7 @@
 			"Big performance optimization compared to V2 (~40% across the board)",
 			"Now SHV can handle infinite amount of shops with no performance cost !",
 			"New _simple.lua files for easily adapting with your server without any need to modify the main files",
+			"New export for checking vehicle on sale (IsVehicleOnSale)",
 			"Fixed script not loading correctly on some servers",
 			"Added ox_lib as dependecy",
 			"Automatic database check & installer instead of old fixSQL command",
@@ -18,6 +19,7 @@
 			"Better vehicle spawn handler",
 			"Fixed some security problem on event handlers",
 			"Removed unused config",
+			"Fixed model blacklist not working correctly"
 
 		]
 	},
