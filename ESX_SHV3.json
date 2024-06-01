@@ -11,7 +11,7 @@
 			"Added ox_lib as dependecy",
 			"Automatic database check & installer instead of old fixSQL command",
 			"Switched from old menus to ox_lib menu",
-			"Moved vehicleinfo to their own file",
+			"Moved vehicleinfo to their own file + optimization",
 			"Fixed script timeout on huge amount of vehicles",
 			"Better information on new updates",
 			"Fixed notification icon sometimes not showing correctly",
