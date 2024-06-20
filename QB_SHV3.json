@@ -1,5 +1,15 @@
 [
 	{
+		"version": "3.1.0",
+		"priority": "^3moderate",
+		"changelog": [
+			"Fixed double loading on some occasion",
+			"Fixed moving far from original vehicle position breaking the script",
+			"Fixed some spawn systems breaking the script from loading correctly",
+			"Update to new logo"
+		]
+	},
+	{
 		"version": "3.0.0",
 		"priority": "^1high",
 		"changelog": [
