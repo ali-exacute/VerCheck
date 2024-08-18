@@ -1,0 +1,11 @@
+[
+	{
+		"version": "3.0.0",
+		"priority": "^1High",
+		"changelog": [
+			"V3 ADDED TEST",
+			"V3 REMOVED TEST",
+			"V3 MODIFIED TEST"
+		]
+	}
+]
