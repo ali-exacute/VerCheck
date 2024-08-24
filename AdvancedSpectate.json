@@ -3,9 +3,30 @@
 		"version": "3.0.0",
 		"priority": "^1High",
 		"changelog": [
-			"V3 ADDED TEST",
-			"V3 REMOVED TEST",
-			"V3 MODIFIED TEST"
+			"Added ox_lib as a new dependency",
+			"Cleared up all files and functions",
+			"Cleaned up Spectating option",
+			"Rewrite follow player gameplay camera to be 90% more smoother than before !",
+			"Fixed script not working on newer ESX",
+			"Added teleport to player option",
+			"Cleared up config and removed old unused variables",
+			"Big performance bump for both spectator and spectated player",
+			"Big performance bump for server aswell",
+			"Fixed permission not working correctly for player information",
+			"Added missing translations to translation.lua",
+			"Changed search player to use ox_lib input menu",
+			"Added player character name to player info",
+			"Added copy coordination function to coords button",
+			"Updated warmenu to latest version",
+			"Fixed tooltip background not showing correctly",
+			"Added custom header for menu",
+			"Mouse sensitivity now uses the same sens as thirdperson gameplay sensitivity",
+			"Added spectating player from server (export)",
+			"Added new events that gets called when player enter/exit the spectating",
+			"Updated version checker",
+			"Fixed client crashes on high population servers",
+			"Updated converting color function to work correctly",
+			"Updated converting color function to work correctly",
 		]
 	}
 ]
