@@ -1,5 +1,13 @@
 [
 	{
+		"version": "3.3.0",
+		"priority": "^2light",
+		"changelog": [
+			"Fixed an issue when just bought vehicle owner were not recognized for sale",
+			"Removed unused debug prints"
+		]
+	},
+	{
 		"version": "3.2.0",
 		"priority": "^2light",
 		"changelog": [
