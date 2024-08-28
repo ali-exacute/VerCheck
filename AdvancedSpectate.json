@@ -1,5 +1,12 @@
 [
 	{
+		"version": "3.0.1",
+		"priority": "^3Low",
+		"changelog": [
+			"Fixed permission for QBCore group on some QB versions"
+		]
+	},
+	{
 		"version": "3.0.0",
 		"priority": "^1High",
 		"changelog": [
