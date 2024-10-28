@@ -1,0 +1,9 @@
+[
+	{
+		"version": "1.0.0",
+		"priority": "^1High",
+		"changelog": [
+      "Initial release"
+		]
+	}
+]
